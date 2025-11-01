@@ -42,7 +42,7 @@ SGBDR-App/
 ├── APP.py                 # Main application file
 ├── user_management.db     # Stores users and permissions (auto-created)
 ├── school.db              # Example user database
-└── README.md              # This file
+├── README.md              # This file
 └── SGBDR_APP_Report.pdf   # A report containing code explications and a tour of the GUI
 ```
 
