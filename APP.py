@@ -554,7 +554,6 @@ class App:
         except Exception as e:
             pass
 
-
 # Run app
 init_user_db()
 app = App()
