@@ -51,12 +51,16 @@ SGBDR-App/
 
 1. **Login/Register:**  
    Each user must log in or create an account.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc1debe5-c814-4324-acc8-43f6091ec9c8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9536435-8d74-4a8c-ace3-1a0b4af2cdfc" />
+
 
 2. **Dashboard:**  
    After login, users see databases they have access to.  
    - Create a new DB  
    - Open an existing DB  
    - Share a DB with others
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/434390af-e1f3-40cb-a950-9375311618f9" />
 
 3. **Database View:**  
    Inside a DB, users can:
@@ -64,12 +68,15 @@ SGBDR-App/
    - Create new tables  
    - Delete tables  
    - Open a table to view/edit data
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8b7670e-a5da-4901-a639-088bc9921cdc" />
 
 4. **Table View:**  
    Inside a table:
+   - View all records
    - Insert new records  
    - Delete selected records  
    - Export data to CSV
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f505acc-db7f-4cd4-9a40-7e08a7d8300b" />
 
 ---
 
@@ -118,6 +125,7 @@ The app will automatically create a user database (`user_management.db`) and an 
 ## 👤 Author
 
 **Ziyad Ouarrad**  
+**Karim Elghomari**
 > Student project — Database Systems (SGBDR)  
 > Built with ❤️ using Python + Tkinter
 
