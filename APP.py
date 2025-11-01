@@ -158,7 +158,6 @@ class DB:
     def close(self):
         self.conn.close()
 
-
 class App:
     def __init__(self):
         self.root = tk.Tk()
