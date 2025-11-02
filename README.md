@@ -126,7 +126,7 @@ The app will automatically create a user database (`user_management.db`) and an 
 ## 👤 Author
 
 **Ziyad Ouarrad**  
-**Karim Elghomari**
+**Karim Elghmari**
 > Student project — Database Systems (SGBDR)  
 > Built with ❤️ using Python + Tkinter
 
